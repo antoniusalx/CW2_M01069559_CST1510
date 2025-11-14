@@ -1,0 +1,7 @@
+antonius,$2b$12$YJE/HhhyJiYgbreT2RnHgevKXUOXEhDbPxzw7UGQqQcO3de6z0feO
+Rob,$2b$12$xCDYA0xh9AWmW.o.xr7Y0u7hGIufX7RCCGOUDSXxUiISFK38QBqbe
+Ahmet,$2b$12$XM.vDeWnEyEz9EWzskPne.KyavMwyXH42bXS5RiEY560jo99RaWdu
+Ben,$2b$12$c4GusXFqu6v3CIn6n59jM.UT9tnmEPh0byasFJj5.MlFogo/5FtU2
+Luke,$2b$12$8Lzy9PrmDHms.DfewIJGMOw.S5TAUKp/y3vGEf3Wyxqx0SWtLshZa
+Roger,$2b$12$5WdyNt5mr5IBK/UZcstIReWtQG/kkpQXLTax6p28OEKp/PYxFZ8P6
+Anna29,$2b$12$ABMQ.ZU1vDCzrkfbqsPkDOiB0m.Rs8fqMVs9OKN8y1W1ZJsCwmnBK

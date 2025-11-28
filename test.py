@@ -51,4 +51,4 @@ def migrate_datasets_metadata(conn):
     print("Datasets metadata migration completed.")
 
 migrate_datasets_metadata(conn)
-conn.close
+conn.close()

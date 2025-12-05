@@ -1,4 +1,4 @@
-import streamlit as st
+import apps as st
 import pandas as pd
 from pathlib import Path
 from app.datasets import get_all_datasets_metadata

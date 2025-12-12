@@ -12,7 +12,6 @@ if not DATA_FILE.exists():
 
 
 data = get_all_datasets_metadata(conn)
-#data = pd.read_csv(DATA_FILE)
 
 st.set_page_config(page_title="Data Explorer App", page_icon="*", layout="wide")
 

@@ -1,6 +1,6 @@
 import streamlit as st
 from openai import OpenAI
-client = OpenAI(api_key=st.secrets['API_KEY'])
+client = OpenAI(api_key='api_key_here')
 
 st.title("Chat with GPT-5.2")
 
